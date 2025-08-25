@@ -1,0 +1,28 @@
+name,category,price,calories,image_url,type
+Chicken 65,Starters,220,320,images/Chicken_65.jpg,Non-Veg
+Paneer Tikka,Starters,250,280,images/Paneer_Tikka.jpg,Veg
+Apollo Fish,Starters,300,350,images/Apollo_Fish.jpg,Non-Veg
+Veg Manchurian,Starters,180,250,images/Veg_Manchurian.jpg,Veg
+Chicken Pakora,Starters,200,300,images/Chicken_Pakora.jpg,Non-Veg
+Mutton Biryani,Biryani & Rice,360,550,images/Mutton_Biryani.jpg,Non-Veg
+Chicken Biryani,Biryani & Rice,300,520,images/Chicken_Biryani.jpg,Non-Veg
+Veg Biryani,Biryani & Rice,220,450,images/Veg_Manchurian.jpg,Veg
+Egg Biryani,Biryani & Rice,180,480,images/Egg_Biryani.jpg,Non-Veg
+Jeera Rice,Biryani & Rice,120,300,images/Jeera_Rice.jpg,Veg
+Butter Chicken,Curries,280,480,images/Butter_Chicken.jpg,Non-Veg
+Paneer Butter Masala,Curries,250,420,images/Paneer_Butter_Masala.jpg,Veg
+Mutton Rogan Josh,Curries,350,500,images/Mutton_Rogan_Josh.jpg,Non-Veg
+Dal Tadka,Curries,150,220,images/Dal_Tadka.jpg,Veg
+Chicken Curry,Curries,240,450,images/Chicken_Curry.jpg,Non-Veg
+Cheese Stuffed Garlic Naan,Breads,50,150,images/cheese_stuffed_garlic_naan.jpg,Veg
+Butter Naan,Breads,45,160,images/Butter_Naan.jpg,Veg
+Tandoori Roti,Breads,25,120,images/Tandoori_Roti.jpg,Veg
+Paratha,Breads,40,180,images/Paratha.jpg,Veg
+Gulab Jamun,Desserts,80,300,images/Gulab_Jamun.jpg,Veg
+Falooda,Desserts,150,350,images/Falooda.jpg,Veg
+Qubani ka Meetha,Desserts,120,280,images/Qubani_ka_Meetha.jpg,Veg
+Double ka Meetha,Desserts,100,320,images/Double_ka_Meetha.jpg,Veg
+Masala Chai,Beverages,40,100,images/Masala_Chai.jpg,Veg
+Fresh Lime Soda,Beverages,60,80,images/Fresh_Lime_Soda.jpg,Veg
+Lassi,Beverages,70,150,images/Lassi.jpg,Veg
+Cold Drinks,Beverages,35,120,images/Cold_Drinks.jpg,Veg
